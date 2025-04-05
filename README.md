@@ -12,7 +12,7 @@ Estabelecer a base do projeto com foco em segurança, incluindo:
 
 ## 1. Configuração do Repositório
 
-### Boas práticas aplicadas
+### Boas práticas
 
 - **Branches protegidas**  
   A branch `main` foi protegida para evitar alterações diretas. Alterações só são permitidas via pull request.
