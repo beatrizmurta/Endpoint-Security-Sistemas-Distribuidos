@@ -58,14 +58,16 @@ Access-Control-Allow-Headers: Content-Type, Authorization
 
 ## Apresentação da Sprint
 
-Como parte da entrega da Sprint 1, foi elaborado um slide de apresentação contendo os seguintes destaques:
+Como parte da entrega da Sprint 1, foi elaborado um vídeo de apresentação contendo os seguintes destaques:
 
 - Melhores práticas de segurança aplicadas na criação e configuração de um repositório GitHub.
 - Definição dos padrões de segurança adotados para a implementação dos endpoints da API.
 - Justificativas para o uso de autenticação via JWT e implementação de CORS.
 - Organização da equipe no uso de branches e revisões para garantir integridade do código.
 
-O slide tem como objetivo apresentar de forma visual e didática o conteúdo técnico da sprint, reforçando a importância da segurança desde o início do desenvolvimento do sistema.
+https://drive.google.com/drive/folders/1CAlzojKteYz55jF4AU3Geqklne7gxwF3?usp=sharing
+
+O vídeo tem como objetivo apresentar de forma visual e didática o conteúdo técnico da sprint, reforçando a importância da segurança desde o início do desenvolvimento do sistema.
 
 ---
 
