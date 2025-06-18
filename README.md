@@ -58,7 +58,7 @@ Access-Control-Allow-Headers: Content-Type, Authorization
 
 ## Apresentação das Sprints
 
-Como parte da entrega da Sprints, foi elaborado um vídeo de apresentação contendo os seguintes destaques:
+Como parte da entrega das Sprints, foi elaborado um vídeo de apresentação contendo os seguintes destaques:
 
 - Melhores práticas de segurança aplicadas na criação e configuração de um repositório GitHub.
 - Definição dos padrões de segurança adotados para a implementação dos endpoints da API.
